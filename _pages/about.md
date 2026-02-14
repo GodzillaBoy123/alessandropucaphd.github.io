@@ -14,6 +14,7 @@ redirect_from:
 Currently a Research Fellow at CNR-IPSP (Florence), where I am involved in the 1LIVEXylella project.
 
 🔍🦠In my work I'm tasked with the development and validation of protocols and technologies for the ultrasensitive detection of Xylella fastidiosa in both plant tissues and insect vectors.
+
 🌲I'm also involved in many other projects on forest pathogens detection.
 
 Most importantly, I'm very good at making pies.
