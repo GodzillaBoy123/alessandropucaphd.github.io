@@ -23,3 +23,6 @@ About me
 ======
 I received my PhD in july 2025 through a cotutelle program between the University of Florence (DAGRI) and Université de Haute-Alsace (LVBE) under the supervision of Prof. Mugnai Laura and Prof. Bertsch Christophe. In [my dissertation](https://flore.unifi.it/handle/2158/1431532) I investigated the degradation capabilities of eight different basidiomycete fungi involved in the Esca Complex of Grapevine, with a focus on non-enzymatic degradation processes in white rot wood decay.
 
+Research Interest
+======
+aaaaa
